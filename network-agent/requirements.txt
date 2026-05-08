@@ -1,0 +1,6 @@
+openai
+paramiko
+requests
+rich
+schedule
+python-dotenv
